@@ -1,0 +1,40 @@
+h1 {
+  font-size: 40px;
+  font-family: fantasy;
+  }
+.sources {
+  font-family: Times New Roman;
+}
+body {
+  background-color: lightblue;
+}
+.info {
+  text-indent: 10%;
+}
+.nav{
+  margin-top: 0px;
+  padding: 0px 0px 0px 4px;
+  background-color: white;
+  border: 5px solid rgba(0, 0, 0, 0.377);
+  width: 90px;
+  color: black;
+}
+
+.image{
+  text-align:center;
+  font-size: 13px;
+}
+
+.img51{
+  text-align: center;
+  font-size: 13px;
+}
+
+.header{
+  margin-top: 0px;
+  padding: 0px 0px 0px 0px;
+  background-color: lightblue;
+  border:20px;
+  width: 100%;
+  color: black;
+}
